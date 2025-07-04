@@ -11,14 +11,17 @@ It will be printed in a translucent green filament like my rocket
 The case is 1 piece and the pcb should be able to slide into the case and still be screwed in nicely
 
 Schematic
+
 <img width="775" alt="Screenshot 2025-07-04 at 12 26 22 AM" src="https://github.com/user-attachments/assets/92aef736-f040-4f1e-a4d1-547678cf2afd" />
 
 
 My case, made in OnShape
+
 <img width="758" alt="Screenshot 2025-07-04 at 12 50 18 AM" src="https://github.com/user-attachments/assets/1cc440b7-db19-4999-ad11-b89441874f01" />
 
 PCB
 My pcb was made in kicad, which ive been using for everything :D
+
 
 <img width="836" alt="Screenshot 2025-07-04 at 12 26 58 AM" src="https://github.com/user-attachments/assets/e1432909-da8b-4276-87bd-8cad17e96e43" />
 
