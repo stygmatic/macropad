@@ -33,13 +33,21 @@ The oled will display the current song playing(still have to figure out the firm
 BOM:
 
 4x Blue MX Switches(I already have)
+
 4x Keycaps
+
 3x 3.2mm screws
+
 2X 3.2mm Bolts
+
 4X capacitors.
+
 4X Neopixels
+
 1x 0.96" OLED Display
+
 1x XIAO RP2040
+
 1x Case
 
 I like rockets
