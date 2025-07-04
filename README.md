@@ -14,7 +14,8 @@ Schematic
 <img width="775" alt="Screenshot 2025-07-04 at 12 26 22 AM" src="https://github.com/user-attachments/assets/92aef736-f040-4f1e-a4d1-547678cf2afd" />
 
 
-Made in OnShape
+My case, made in OnShape
+<img width="758" alt="Screenshot 2025-07-04 at 12 50 18 AM" src="https://github.com/user-attachments/assets/1cc440b7-db19-4999-ad11-b89441874f01" />
 
 PCB
 My pcb was made in kicad, which ive been using for everything :D
