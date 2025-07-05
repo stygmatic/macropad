@@ -47,6 +47,7 @@ BOM:
 2X 3.2mm Bolts
 
 4X capacitors.
+https://www.amazon.com/mxuteuk-Multilayer-Monolithic-Capacitor-0-1uf-104/dp/B08B3VCK42/
 
 4X Neopixels
 
